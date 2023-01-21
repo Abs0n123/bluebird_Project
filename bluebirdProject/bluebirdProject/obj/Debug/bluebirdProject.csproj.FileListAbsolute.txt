@@ -1,0 +1,10 @@
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\bin\Debug\bluebirdProject.exe.config
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\bin\Debug\bluebirdProject.exe
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\bin\Debug\bluebirdProject.pdb
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\obj\Debug\bluebirdProject.csprojAssemblyReference.cache
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\obj\Debug\bluebirdProject.Form1.resources
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\obj\Debug\bluebirdProject.Properties.Resources.resources
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\obj\Debug\bluebirdProject.csproj.GenerateResource.cache
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\obj\Debug\bluebirdProject.csproj.CoreCompileInputs.cache
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\obj\Debug\bluebirdProject.exe
+C:\Users\oskar\source\repos\bluebirdProject\bluebirdProject\obj\Debug\bluebirdProject.pdb
